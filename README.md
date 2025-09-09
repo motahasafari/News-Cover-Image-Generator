@@ -32,7 +32,7 @@ git clone <repo-url>
 cd News Cover Image Generator
 
 # Install dependencies
-pip install Pillow arabic-reshaper python-bidi requests
+pip install -r requirements.txt
 ```
 
 ---
